@@ -1,0 +1,40 @@
+body {
+    font-family: "Gotham-book", arial, serif;
+}
+
+header {
+    border-bottom: 1px solid #E21E2D;
+    padding-bottom: 5px;
+}
+
+h1 {
+    font-family: "Soho-Std-Bold";
+    font-size: 1.6rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1024px;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar {
+    color: #E21E2D;
+    background: none;
+    border: 0;
+    margin: 0;
+}
+
+header .row {
+    margin: 20px 0;
+    padding: 0;
+    width: 100%;
+}
+
+header .navbar-header {
+    float: none;
+}
