@@ -6,7 +6,7 @@ header {
     nav-up: auto;
     border-bottom: 1px solid #E21E2D;
     padding-bottom: 5px;
-    
+
 }
 
 
@@ -25,28 +25,28 @@ header {
     background: none;
     border: 0;
     margin: 0px;
-    
-    
+
+
 }
 
 header .row {
     margin: 20px 0;
     padding: 0;
     width: 100%;
-    
+
 }
 
 header .navbar-header {
     float: none;
-    
+
 }
-  
+
 .nav {
     display: inline-block; /* Exibe o elemento como um bloco em linha */
     white-space: nowrap; /* Impede quebras de linha */
     text-align: center; /* Centraliza o conteúdo */
   }
-  
+
   .nav li {
     display: inline-block; /* Exibe cada item da lista como um bloco em linha */
     margin: 0 5px; /* Adiciona um espaçamento de 5 pixels entre os itens */
@@ -54,7 +54,7 @@ header .navbar-header {
     text-align: center;
     align-items: center;
 }
-  
+
    li a {
     font-family: "Gotham-Bold";
     font-weight: normal;
@@ -66,8 +66,8 @@ header .navbar-header {
     font-size: 1.2rem;
     text-shadow: none;
     background: #fff;
-    
-}  
+
+}
 span {
     background-color: red;
     color: rgb(0, 0, 0);
@@ -77,4 +77,3 @@ span {
     border-style:hidden;
     box-sizing: border-box;
 }
-  
